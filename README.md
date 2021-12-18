@@ -14,7 +14,7 @@
 - 💬 Ask me about **HTML** **CSS** **JS** **C++**
 - 🔭 I’m currently working on creating webpages and learning how to progam.
 - 😀 I like to code and listen to different kind of music 
-- 📫 How to reach me: nurlanabduaayev404@icloud.com
+- 📫 How to reach me: nurlanabdullayev404@icloud.com
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
 </p>
