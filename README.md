@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP and C++.
 - 💬 Ask me about **HTML** **CSS** **JS** **C++**
-- 🔭 I’m currently working on creating webpages and learning how to progam.
+- 🔭 I’m currently working on creating webpages and learning how to program.
 - 😀 I like to code and listen to different kind of music 
 - 📫 How to reach me: nurlanabdullayev404@icloud.com
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
