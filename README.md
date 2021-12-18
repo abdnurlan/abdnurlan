@@ -10,9 +10,11 @@
 
 
 
-- 🌱 I’m currently learning WEB Developing language
-- 💬 Ask me about **HTML** **CSS**
-- 📫 How to reach me: nurlanabdullayev404@icloud.com
+- 🌱 I’m currently learning HTML, CSS, Javascript, PHP and C++.
+- 💬 Ask me about **HTML** **CSS** **JS** **C++**
+- 🔭 I’m currently working on creating webpages and learning how to progam.
+- 😀 I like to code and listen to different kind of music 
+- 📫 How to reach me: nurlanabduaayev404@icloud.com
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
 
 
@@ -34,6 +36,5 @@
 <p align="center">
 <a href="https://github.com/abdnurlan">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdnurlan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdnurlan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
